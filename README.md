@@ -1,6 +1,6 @@
 ABOUT ME:
 
-📅 Have a 16 years-old 
+📅 I have a 16 years 
 📚 I am studing to code 🧑‍💻, now i'am learning lua and C# 
 💼create scripts📂 for fivem🐌 
 
